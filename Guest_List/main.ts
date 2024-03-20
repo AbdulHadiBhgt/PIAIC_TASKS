@@ -39,6 +39,9 @@ names.forEach(name => {
     console.log(`Hello ${name} ! You are still invited to my 3rd Anniversary Party`);
 });
 
+//Q19 Dinner Guests
+console.log(`Inviting ${names.length} people`);
+
 names.pop();
 names.pop();
 
