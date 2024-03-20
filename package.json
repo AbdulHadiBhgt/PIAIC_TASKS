@@ -1,0 +1,26 @@
+{
+  "name": "simple_calculator",
+  "version": "1.0.0",
+  "description": "simple command line calculator for npx",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test_calc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulHadiBhgt/Simple_Calculator.git"
+  },
+  "author": "Abdul Hadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbdulHadiBhgt/Simple_Calculator/issues"
+  },
+  "homepage": "https://github.com/AbdulHadiBhgt/Simple_Calculator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
