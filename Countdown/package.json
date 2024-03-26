@@ -1,0 +1,13 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "simple countdown timer",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
